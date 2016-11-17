@@ -15,4 +15,4 @@ webpack
 npm install -g http-server
 http-server
 ```
-Then go to http://localhost:8080/ on your web browser.
+Then go to [http://localhost:8080/](http://localhost:8080/) on your web browser.
