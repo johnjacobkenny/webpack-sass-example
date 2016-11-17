@@ -8,3 +8,11 @@ This repo shows a simple example to dynamically load bootstrap.scss to a webpage
 npm install
 webpack
 ```
+
+### Run
+
+```
+npm install -g http-server
+http-server
+```
+Then go to http://localhost:8080/ on your web browser.
