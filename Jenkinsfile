@@ -8,7 +8,7 @@ pipeline {
     }
     stage('Output') {
       steps {
-        sh 'echo "Done!"'
+        sh 'npm test'
       }
     }
   }
